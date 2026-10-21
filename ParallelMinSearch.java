@@ -17,3 +17,5 @@ public class ParallelMinSearch extends SensorSearchEngine {
 // Updated for PDC Lab Assignment 2
 
 // Update commit log
+
+// Incremental commit update
